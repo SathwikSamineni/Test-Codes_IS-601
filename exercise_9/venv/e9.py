@@ -1,4 +1,3 @@
-import json
 from fastapi import FastAPI, HTTPException
 
 # Initialize FastAPI app
